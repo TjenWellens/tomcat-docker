@@ -18,3 +18,7 @@ docker run -it --rm -p=8080:8080 -p=1043:1043 -e JPDA_ADDRESS=1043 -v $(pwd)/tar
 ```
 docker build -t tjenwellens/tomcat .
 ```
+
+# Docker Hub
+
+https://hub.docker.com/r/tjenwellens/tomcat/
